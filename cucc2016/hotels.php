@@ -68,7 +68,7 @@
           <tr>
             <th></th>
             <th>Confederation Place Hotel</th>
-            <th>Holiday Hotel</th>
+            <th>Holiday Inn</th>
           </tr>
           <tr>
             <th>Location</th>
@@ -92,13 +92,13 @@
           </tr>
           <tr>
             <th>Pool</th>
-            <td>no</td>
-            <td>no</td>
+            <td>No</td>
+            <td>Yes</td>
           </tr>
           <tr>
             <th>Gym</th>
-            <td>no</td>
-            <td>no</td>
+            <td>No</td>
+            <td>Yes</td>
           </tr>
           <tr>
             <th>Reservation Information</th>
@@ -112,7 +112,7 @@
             <td>
               You may contact the reservations department using the following methods and mention the Queen’s University Chess Tournament room block.
               <br/>
-              <strong>Call direct:</strong> 613-549-8400 x 2660
+              <strong>Call direct:</strong> 613-549-8400 ext 2660
               <br/>
               <strong>By email:</strong> <a href="mailto:reservations@hikingstonwaterfront.com">reservations@hikingstonwaterfront.com</a>
               <br/>

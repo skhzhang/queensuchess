@@ -147,7 +147,7 @@
           </tr>
         </table>
 
-        <p>*<strong>Rules:</strong> You can play a player 2 places above and below your current ranking. Each ladder game at club meetings will be 5-10 minutes in length. When you beat a player ranked higher than you, you switch positions with them and if you lose or tie against some ranked higher than you, the rankings stay the same.</p>
+        <p>*<strong>Rules:</strong> You can play a player 2 places above and below your current ranking. Each ladder game at club meetings will be 5-10 minutes in length. When you beat a player ranked higher than you, you switch positions with them and if you lose or tie against someone ranked higher than you, the rankings stay the same.</p>
       </div>
       <div class="box">
         <span class="box-title">Daily Puzzle</span>
