@@ -26,23 +26,30 @@ function head($directoryLevel) {
 					<a href="{$directoryString}about"><button class="link">About</button></a>
 				</li>
 				<li>
-					<a href="{$directoryString}contact"><button class="link">Contact</button></a>
-				</li>
-				<li>
 					<a href="{$directoryString}photos"><button class="link">Photos</button></a>
 				</li>
 				<li>
 					<a href="{$directoryString}partners"><button class="link">Partners</button></a>
 				</li>
 				<li>
-					<a href="{$directoryString}puzzles"><button class="link">Daily Puzzles</button></a>
+					<a href="{$directoryString}club-library"><button class="link">Club Library</button></a>
+				</li>
+				<li>
+					<a href="{$directoryString}ladder"><button class="link">Ladder</button></a>
 				</li>
 				<li>
 					<a href="{$directoryString}cucc2016"><button class="link special-link">CUCC 2016</button></a>
 					<ul class="dropdown">
-						<a href="#"><li><button class="link"><a href="#">Tilt</a></button></li></a>
-						<a href="#"><li><button class="link"><a href="#">University Team Pages</a></button></li></a>
+						<a href="#"><li>
+							<a href="{$directoryString}cucc2016"><button class="link">Information</button></a>
+						</li></a>
+						<a href="#"><li>
+							<a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a>
+						</li></a>
 					</ul>
+				</li>
+				<li>
+					<a href="{$directoryString}contact"><button class="link">Contact</button></a>
 				</li>
 			</ul>
 		</div>
@@ -80,23 +87,30 @@ function head($directoryLevel) {
 								<a href="{$directoryString}about"><button class="link">About</button></a>
 							</li>
 							<li>
-								<a href="{$directoryString}contact"><button class="link">Contact</button></a>
-							</li>
-							<li>
 								<a href="{$directoryString}photos"><button class="link">Photos</button></a>
 							</li>
 							<li>
 								<a href="{$directoryString}partners"><button class="link">Partners</button></a>
 							</li>
 							<li>
-								<a href="{$directoryString}puzzles"><button class="link">Daily Puzzles</button></a>
+								<a href="{$directoryString}club-library"><button class="link">Club Library</button></a>
+							</li>
+							<li>
+								<a href="{$directoryString}ladder"><button class="link">Ladder</button></a>
 							</li>
 							<li>
 								<a href="{$directoryString}cucc2016"><button class="link special-link">CUCC 2016</button></a>
 								<ul class="dropdown">
-									<a href="#"><li><button class="link"><a href="#">Tilt</a></button></li></a>
-									<a href="#"><li><button class="link"><a href="#">University Team Pages</a></button></li></a>
+									<a href="#"><li>
+										<a href="{$directoryString}cucc2016"><button class="link">Information</button></a>
+									</li></a>
+									<a href="#"><li>
+										<a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a>
+									</li></a>
 								</ul>
+							</li>
+							<li>
+								<a href="{$directoryString}contact"><button class="link">Contact</button></a>
 							</li>
 						</ul>
 					</div>

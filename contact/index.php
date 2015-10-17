@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About - Queen's Chess Club</title>
+  <title>Contact - Queen's Chess Club</title>
   <meta name="author" content="Queen's Chess Club">
   <meta name="Description" content="Home of the Queen's University Chess Club">
 
@@ -58,13 +58,23 @@
     
     <div class="row">
       <div class="box">
-        <span>Welcome to the Queen's Chess Club!</span>
+        <span class="box-title">Contact</span>
         <br/>
-        <br/>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu euismod nisl. Aenean rhoncus ipsum ut sem maximus rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras quis nisi eu mi ornare laoreet et sed leo.
+        <p>The first step is to contact us and come to the weekly meetings!</p>
+
+        <p>
+          <strong>Meetings</strong> - JDUC 352 @ 8:30pm on Tuesdays
+          <br/>
+          <strong>Contact</strong> - <a href="mailto:queenschess@outlook.com">queenschess@outlook.com</a>
+          <br/>
+          <strong>Club President</strong> - Simon Gladstone (<a href="mailto:simon.gladstone@queensu.ca">simon.gladstone@queensu.ca</a>)
+        </p>
+
+        <p>We hope to be hearing from you!</p>
+        </p>
       </div>
       <div class="box">
-        <span>Daily Puzzle</span>
+        <span class="box-title">Daily Puzzle</span>
         <br/>
         <br/>
         <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/

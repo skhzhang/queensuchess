@@ -67,8 +67,6 @@
 						<li><img src="images/IMG_20150929_214027.jpg" /></li>
 						<li><img src="images/IMG_20150929_214101.jpg" /></li>
 						<li><img src="images/IMG_20150929_222811.jpg" /></li>
-            <li><img src="images/slide1.jpg" /></li>
-            
 					</ul>
 				</div>
 			</div>
@@ -79,16 +77,21 @@
 
 		<div class="row">
 			<div class="box">
-				<span>Welcome to the Queen's Chess Club!</span>
+				<span class="box-title">Welcome to the Queen's Chess Club!</span>
 				<br/>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu euismod nisl. Aenean rhoncus ipsum ut sem maximus rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras quis nisi eu mi ornare laoreet et sed leo.
-			</div>
+
+        <p>This is a place where we learn, think, and develop our chess skills. Home to beginning to master level players, our open form of matchups mixed with a player ladder offers an atmosphere where everyone can prosper. Come out, every Tuesday at 8:30pm, JDUC 352.</p>
+
+        <p>There are many ways to get involved and learn together with social media discussion, weekly meetings to practice playing and a fun and entertaining weekly lecture.</p>
+
+        <p>This year the Canadian University Chess Championships (CUCC) is coming to Queen's. This national tournament is a commemoration of competitive, inter school comradery, and represents a team based forum in which every player is competing to represent their university. This event will see universities across the country featuring their best players, from masters to strong recreational players.</p>
+
+      </div>
 			<div class="box">
-				<span>Daily Puzzle</span>
+				<span class="box-title">Daily Puzzle</span>
 				<br/>
 				<br/>
-				<iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/
-gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+				<iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
 			</div>
 		</div>
 

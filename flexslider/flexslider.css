@@ -291,3 +291,13 @@ html[xmlns] .flexslider .slides {
     width: 70%;
     margin: 0 auto;
 }
+
+.flex-control-nav {
+    bottom: -8%;
+}
+
+@media(max-width: 550px){
+  .flex-control-nav {
+    display: none;
+  }
+}

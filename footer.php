@@ -17,26 +17,27 @@ function foot($directoryLevel) {
 				<ul>
 					<li class="links"><a href="{$directoryString}">Home</a></li>
 					<li class="links"><a href="{$directoryString}about">About</a></li>
-					<li class="links"><a href="{$directoryString}contact">Contact</a></li>
 					<li class="links"><a href="{$directoryString}photos">Photos</a></li>
 					<li class="links"><a href="{$directoryString}partners">Partners</a></li>
-					<li class="links"><a href="{$directoryString}puzzles">Daily Puzzles</a></li>
+					<li class="links"><a href="{$directoryString}club-library">Club Library</a></li>
+					<li class="links"><a href="{$directoryString}ladder">Ladder</a></li>
 					<li class="links"><a href="{$directoryString}cucc2016">CUCC 2016</a></li>
+					<li class="links"><a href="{$directoryString}contact">Contact</a></li>
 				</ul>
 			</div>
 			<div class="four columns footer-box">
-				<span class="title">Connect with us</span>
+				<span class="title" id="connect-with-us"><a href="#connect-with-us">Connect with us</a></span>
 				<ul>
 					<li class="links"><a href="https://www.facebook.com/groups/130578570469174/"><img src="{$directoryString}icons/FB-f-Logo__blue_64.png"> &nbsp; Facebook</a></li>
-					<li class="links"><a href="{$directoryString}">AMS Clubs</a></li>
+					<li class="links"><a href="mailto:queenschess@outlook.com"><img src="{$directoryString}icons/email5.png"> &nbsp; Email us</a></li>
+					<li class="links"><a href="http://myams.org/clubs-directory/">AMS Clubs</a></li>
 				</ul>
 			</div>
 			<div class="four columns footer-box">
-				<span class="title">Meeting Location</span>
+				<span class="title" id="meeting-location"><a href="#meeting-location">Meeting Location</a></span>
 				<br/>
 				<br/>
-				<p class="footer-text">We meet Tuesday nights in the <strong>JDUC 352</strong>.</p>
-				<p class="footer-text">Whether you are just learning the game or you are a seasoned veteran, come on out. The club is a great place to meet new people and improve your game.</p>
+				<p class="footer-text">We meet Tuesday nights at 8:30pm in the <strong>JDUC 352</strong>.</p>
 			</div>
 		</div>
 	</div>

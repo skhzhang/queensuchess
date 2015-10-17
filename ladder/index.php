@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Photos - Queen's Chess Club</title>
+  <title>Ladder - Queen's Chess Club</title>
   <meta name="author" content="Queen's Chess Club">
   <meta name="Description" content="Home of the Queen's University Chess Club">
 
@@ -58,9 +58,96 @@
     
     <div class="row">
       <div class="box">
-        <spa class="box-title"n>Photos</span>
+        <span class="box-title">Chess Club Ladder</span>
         <br/>
-        <br/>
+        <p>At Tuesday meetings, one of the ways that we stimulate a more competitive nature to club games is the inclusion of a ladder system. In this system, players are ranked on a relative measure of past performance within the club, such that they are more easily able to find games that are at their skill level.</p>
+
+        <p>The players are ranked in the table, from top (ranked highest) to bottom (ranked lowest). Contact us today to get into the ladder action!</p>
+
+        <table>
+          <tr>
+            <th>Rank</th>
+            <th>Player</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Tony Bao</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Simon Gladstone</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Guang Yu Song</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Josh Myers</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Sudhir Pokhrel</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>James Zhang</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Chris Pallant</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Connor Morrow</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Ben Lande</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td>Justin Pool</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Hong Yi Xiong</td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>David Tango</td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>Mike Vaselenak</td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>Dylan McTeirnan</td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>Aidrain Ranjith</td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>Alfred Chen</td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>Joaquin Sanchez de Lozada</td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>Charles Cai</td>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td>Umer Naveed</td>
+          </tr>
+        </table>
+
+        <p>*<strong>Rules:</strong> You can play a player 2 places above and below your current ranking. Each ladder game at club meetings will be 5-10 minutes in length. When you beat a player ranked higher than you, you switch positions with them and if you lose or tie against some ranked higher than you, the rankings stay the same.</p>
       </div>
       <div class="box">
         <span class="box-title">Daily Puzzle</span>

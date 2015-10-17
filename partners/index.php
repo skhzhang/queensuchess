@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About - Queen's Chess Club</title>
+  <title>Partners - Queen's Chess Club</title>
   <meta name="author" content="Queen's Chess Club">
   <meta name="Description" content="Home of the Queen's University Chess Club">
 
@@ -58,20 +58,31 @@
     
     <div class="row">
       <div class="box">
-        <span>Welcome to the Queen's Chess Club!</span>
+        <span class="box-title">Partnerships</span>
         <br/>
-        <br/>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu euismod nisl. Aenean rhoncus ipsum ut sem maximus rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras quis nisi eu mi ornare laoreet et sed leo.
+        <p>As a representative organization of Queen's University, the Queen's Chess Club prides itself on acknowledging groups that contribute to annual club activities. Here are some of companies and organizatons that have helped the Queen's Chess Club in the past. </p>
+        <table>
+          <tr>
+            <td><img src="../images/chessandmathassociation.jpg" style="width: 90px;"/></td>
+            <td><a href="http://chess-math.org/"> Chess and Math Association</a></td>
+          </tr>
+          <tr>
+            <td><img src="../images/ams.jpg" style="width: 90px;"/></td>
+            <td><a href="http://myams.org"> The Queen's University Alma Mater Society</a></td>
+          </tr>
+          <tr>
+            <td><img src="../images/ressoc.jpg" style="width: 90px;"/></td>
+            <td><a href="http://www.ressoc.org"> The Residence Society</a></td>
+          </tr>
+        </table>
       </div>
       <div class="box">
-        <span>Daily Puzzle</span>
+        <span class="box-title">Daily Puzzle</span>
         <br/>
         <br/>
-        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/
-gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
       </div>
     </div>
-
   </div>
 </div>
 

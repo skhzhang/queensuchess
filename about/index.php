@@ -58,13 +58,17 @@
     
     <div class="row">
       <div class="box">
-        <span>Welcome to the Queen's Chess Club!</span>
+        <span class="box-title">About</span>
         <br/>
-        <br/>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu euismod nisl. Aenean rhoncus ipsum ut sem maximus rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras quis nisi eu mi ornare laoreet et sed leo.
+        <p>
+          The Queen's Chess Club is dedicated to the play and promotion of chess in Queen’s University.  Our club meets each Tuesday night at 8:30pm in JDUC room 352 (John Deutsch University Centre, big building right next to the ARC).  Our members range in strength from complete beginners to seasoned experts.  During meetings we go over instructional games and tackle puzzles.  There is also an optional ladder system for those who want to challenge themselves.
+        <p/>
+        <p>
+          The club provides chess set and clocks.  There are also chess books available for renting.
+        </p>
       </div>
       <div class="box">
-        <span>Daily Puzzle</span>
+        <span class="box-title">Daily Puzzle</span>
         <br/>
         <br/>
         <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/

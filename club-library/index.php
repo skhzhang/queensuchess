@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>About - Queen's Chess Club</title>
+  <title>Chess Club Library - Queen's Chess Club</title>
   <meta name="author" content="Queen's Chess Club">
   <meta name="Description" content="Home of the Queen's University Chess Club">
 
@@ -58,13 +58,14 @@
     
     <div class="row">
       <div class="box">
-        <span>Welcome to the Queen's Chess Club!</span>
+        <span class="box-title">Chess Club Library</span>
         <br/>
-        <br/>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu euismod nisl. Aenean rhoncus ipsum ut sem maximus rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras quis nisi eu mi ornare laoreet et sed leo.
+        <p>The Queen’s Chess Club has accumulated several chess books that are available to be rented out. The books range in skill set and include beginner and intermediate openings books and several puzzle books. The books can be rented out for 2 weeks by signing it out with a $5 deposit.</p>
+
+        <p>Stay tuned for the chess book catalogue!</p>
       </div>
       <div class="box">
-        <span>Daily Puzzle</span>
+        <span class="box-title">Daily Puzzle</span>
         <br/>
         <br/>
         <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/

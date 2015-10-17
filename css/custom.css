@@ -120,7 +120,7 @@ header {
 
 button.link {
 	color: #F2DAE0;
-	padding: 0 2px 0;
+	padding: 0 5px 0;
 	margin: 0 0 0;
 	min-width: 125px;
     text-align: left;
@@ -176,22 +176,30 @@ button.special-link:hover::after {
 	margin-top: 75px;
 }
 
+.container-right {
+	flex-direction: column;
+}
+
 .main .row {
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
+	align-items: flex-start; }
+.main .row-same-height {
+	align-items: stretch;
 }
 
 .main :first-child .row .box { margin-top: 25px; }
 
 .box { /* elements used to house content */
+	flex-grow: 1;
 	margin: 10px 0 10px 0;
 	padding: 10px;
 	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 	background-color: white;
 }
 
-.box span {
+.box-title {
 	font-family: "Roboto", Arial, sans-serif;
 	font-size: 24px;
 	font-weight: bold;
@@ -291,7 +299,7 @@ footer .title,
 		display: none;
 	}
 	button.link {
-		padding: 0 5px 0;
+		padding: 0 2px 0;
 	}
 
 	/* HEADER */
