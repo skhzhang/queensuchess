@@ -56,7 +56,7 @@
 
 <div class="main">
 	<div class="container">
-		<div class="row">
+		<div class="row row-w-curtain">
 			<div class="showcase">
 				<div class="flexslider">
 					<ul class="slides">

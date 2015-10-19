@@ -40,12 +40,12 @@ function head($directoryLevel) {
 				<li>
 					<a href="{$directoryString}cucc2016"><button class="link special-link">CUCC 2016</button></a>
 					<ul class="dropdown">
-						<a href="#"><li>
+						<li>
 							<a href="{$directoryString}cucc2016"><button class="link">Information</button></a>
-						</li></a>
-						<a href="#"><li>
+						</li>
+						<li>
 							<a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a>
-						</li></a>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -101,12 +101,12 @@ function head($directoryLevel) {
 							<li>
 								<a href="{$directoryString}cucc2016"><button class="link special-link">CUCC 2016</button></a>
 								<ul class="dropdown">
-									<a href="#"><li>
+									<li>
 										<a href="{$directoryString}cucc2016"><button class="link">Information</button></a>
-									</li></a>
-									<a href="#"><li>
+									</li>
+									<li>
 										<a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a>
-									</li></a>
+									</li>
 								</ul>
 							</li>
 							<li>

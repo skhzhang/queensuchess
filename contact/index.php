@@ -71,14 +71,12 @@
         </p>
 
         <p>We hope to be hearing from you!</p>
-        </p>
       </div>
       <div class="box">
         <span class="box-title">Daily Puzzle</span>
         <br/>
         <br/>
-        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/
-gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
       </div>
     </div>
 

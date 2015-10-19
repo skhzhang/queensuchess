@@ -38,6 +38,7 @@ function foot($directoryLevel) {
 				<br/>
 				<br/>
 				<p class="footer-text">We meet Tuesday nights at 8:30pm in the <strong>JDUC 352</strong>.</p>
+				<iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJdWmhDQSr0kwRJJOAMEjie3I&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>

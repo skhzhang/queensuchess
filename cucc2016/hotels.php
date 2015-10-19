@@ -72,8 +72,12 @@
           </tr>
           <tr>
             <th>Location</th>
-            <td>237 Ontario Street, Kingston, ON</td>
-            <td>2 Princess Street, Kingston, ON</td>
+            <td>
+              <a href="https://www.google.ca/maps/place/237+Ontario+St,+Kingston,+ON+K7L+2Z4/">237 Ontario Street, Kingston, ON</a>
+            </td>
+            <td>
+              <a href="https://www.google.ca/maps/place/2+Princess+St,+Kingston,+ON+K7L+1A2/">2 Princess Street, Kingston, ON</a>
+            </td>
           </tr>
           <tr>
             <th>Distance</th>

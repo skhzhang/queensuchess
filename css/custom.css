@@ -176,23 +176,35 @@ button.special-link:hover::after {
 	margin-top: 75px;
 }
 
-.container-right {
-	flex-direction: column;
-}
-
 .main .row {
+	display: -moz-box;
+	display: -webkit-flexbox;
+	display: -ms-flexbox;
+	display: -webkit-flex;
 	display: flex;
 	flex-direction: column;
-	justify-content: flex-start;
-	align-items: flex-start; }
+	justify-content: stretch;
+	align-items: flex-start; /* flex-items have diff height */ }
 .main .row-same-height {
-	align-items: stretch;
+	align-items: stretch; /* flex-items have same height */
 }
 
-.main :first-child .row .box { margin-top: 25px; }
+.main :first-child .row { margin-top: 25px; }
+
+.main :first-child .row-w-curtain { margin-top: 0; }
+
+.container-right {
+	flex-direction: column;
+	width: 100%;
+	margin: 0; }
+.container-right .box {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
 
 .box { /* elements used to house content */
 	flex-grow: 1;
+	width: calc(100% - 20px);
 	margin: 10px 0 10px 0;
 	padding: 10px;
 	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
@@ -215,9 +227,7 @@ button.special-link:hover::after {
 
 .showcase {
 	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-	margin-top: 20px;
 	margin-bottom: 10px;
-	padding-bottom: 25px;
 	width: 100%;
 	background-color: white;
 }
@@ -395,6 +405,10 @@ footer .title,
 		display: none;
 	}
 
+	.container-right {
+		width: auto;
+	}
+
 	/* MAIN */
 	.main {
 		margin-top: 0;
@@ -415,13 +429,22 @@ footer .title,
 	.main .row > :last-child { margin-right: 0; }
 
 	.box {
-		margin: 10px;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+
+
+	.main .container .container-right .box {
+		margin-top: 10px;
 	}
 
 	/* SHOWCASE */
 	.showcase {
 		margin-top: 0;
 		margin-bottom: 0;
+		padding-bottom: 25px;
 	}
 
 	/* FOOTER */
@@ -449,7 +472,22 @@ footer .title,
 		right: 15px; }
 	.toTop:hover {
 		opacity: .8;
+	}
 }
 
-}
+@media (max-width: 700px) {
+	.main .row {
+		flex-wrap: wrap;
+	}
 
+	.row .box {
+		margin-left: 0;
+		margin-right: 0;
+		flex-grow: 1;
+		width: calc(100% - 20px);
+	}
+
+	.container-right {
+		width: 100%;
+	}
+}
