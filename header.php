@@ -166,12 +166,8 @@ EOT;
 					<li>
 						<a href="{$directoryString}cucc2016"><button class="link special-link">CUCC 2016</button></a>
 						<ul class="dropdown">
-							<li>
-								<a href="{$directoryString}cucc2016"><button class="link">Information</button></a>
-							</li>
-							<li>
-								<a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a>
-							</li>
+							<li><a href="{$directoryString}cucc2016"><button class="link">Information</button></a></li>
+							<li><a href="{$directoryString}cucc2016/hotels.php"><button class="link">Hotels</button></a></li>
 						</ul>
 					</li>
 
@@ -196,7 +192,6 @@ EOT;
 
 			</ul>
 		</div>
-
 EOT;
 
 	return $returnValue;

@@ -64,6 +64,19 @@
 
         <div id="slider" class="flexslider">
           <ul class="slides">
+            <li><img src="../images/11990162_10153730490834038_1498407561_o.jpg" /></li>
+            <li><img src="../images/12165191_10153730491079038_1072037453_o.jpg" /></li>
+            <li><img src="../images/12168832_10153730490929038_1866692307_o.jpg" /></li>
+            <li><img src="../images/12168852_10153730490694038_2077689242_o.jpg" /></li>
+            <li><img src="../images/12169385_10153730491049038_332831427_o.jpg" /></li>
+            <li><img src="../images/12170833_10153730490874038_1454958703_o.jpg" /></li>
+            <li><img src="../images/12170955_10153730490504038_1971595249_o.jpg" /></li>
+            <li><img src="../images/12181047_10153747756129038_461616278_o.jpg" /></li>
+            <li><img src="../images/12181829_10153747756084038_1273616946_n.jpg" /></li>
+            <li><img src="../images/12185890_10153747756104038_953233843_o.jpg" /></li>
+            <li><img src="../images/12188534_10153747756079038_837502130_n.jpg" /></li>
+            <li><img src="../images/12190180_10153747756114038_616183106_o.jpg" /></li>
+            <li><img src="../images/12190461_10153747756099038_202447134_o.jpg" /></li>
             <li><img src="../images/IMG_20150929_213345.jpg" /></li>
             <li><img src="../images/IMG_20150929_213353.jpg" /></li>
             <li><img src="../images/IMG_20150929_213403.jpg" /></li>
@@ -71,11 +84,23 @@
             <li><img src="../images/IMG_20150929_214027.jpg" /></li>
             <li><img src="../images/IMG_20150929_214101.jpg" /></li>
             <li><img src="../images/IMG_20150929_222811.jpg" /></li>
-            <!-- items mirrored twice, total of 12 -->
           </ul>
         </div>
         <div id="carousel" class="flexslider">
           <ul class="slides">
+            <li><img src="../images/11990162_10153730490834038_1498407561_o.jpg" /></li>
+            <li><img src="../images/12165191_10153730491079038_1072037453_o.jpg" /></li>
+            <li><img src="../images/12168832_10153730490929038_1866692307_o.jpg" /></li>
+            <li><img src="../images/12168852_10153730490694038_2077689242_o.jpg" /></li>
+            <li><img src="../images/12169385_10153730491049038_332831427_o.jpg" /></li>
+            <li><img src="../images/12170833_10153730490874038_1454958703_o.jpg" /></li>
+            <li><img src="../images/12170955_10153730490504038_1971595249_o.jpg" /></li>
+            <li><img src="../images/12181047_10153747756129038_461616278_o.jpg" /></li>
+            <li><img src="../images/12181829_10153747756084038_1273616946_n.jpg" /></li>
+            <li><img src="../images/12185890_10153747756104038_953233843_o.jpg" /></li>
+            <li><img src="../images/12188534_10153747756079038_837502130_n.jpg" /></li>
+            <li><img src="../images/12190180_10153747756114038_616183106_o.jpg" /></li>
+            <li><img src="../images/12190461_10153747756099038_202447134_o.jpg" /></li>
             <li><img src="../images/IMG_20150929_213345.jpg" /></li>
             <li><img src="../images/IMG_20150929_213353.jpg" /></li>
             <li><img src="../images/IMG_20150929_213403.jpg" /></li>
@@ -83,7 +108,6 @@
             <li><img src="../images/IMG_20150929_214027.jpg" /></li>
             <li><img src="../images/IMG_20150929_214101.jpg" /></li>
             <li><img src="../images/IMG_20150929_222811.jpg" /></li>
-            <!-- items mirrored twice, total of 12 -->
           </ul>
         </div>
       </div>
