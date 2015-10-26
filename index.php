@@ -34,7 +34,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="icons/orange-circle.png" type="icon/png" rel="icon" />
+  <link href="./logo.png" type="icon/png" rel="icon" />
 
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -58,7 +58,7 @@
 	<div class="container">
 		<div class="row row-w-curtain">
 			<div class="showcase">
-				<div class="flexslider">
+				<div class="flexslider main-page-flexslider">
 					<ul class="slides">
 						<li><img src="images/IMG_20150929_213345.jpg" /></li>
 						<li><img src="images/IMG_20150929_213353.jpg" /></li>
@@ -72,9 +72,8 @@
 			</div>
 		</div>
 	</div>
+  
 	<div class="container">
-		
-
 		<div class="row">
 			<div class="box">
 				<span class="box-title">Welcome to the Queen's Chess Club!</span>

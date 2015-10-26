@@ -34,7 +34,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="../icons/orange-circle.png" type="icon/png" rel="icon" />
+  <link href="../logo.png" type="icon/png" rel="icon" />
 
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -70,7 +70,7 @@
 
         <strong>Location:</strong> MacGivallary-Brown Hall 218 Barrie Street, Kingston, Ontario
 
-        <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20MacGivallary-Brown%20Hall&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe> 
+        <!--<iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20MacGivallary-Brown%20Hall&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>-->
 
         <br/><br/><strong>Tournament Format:</strong>
         <ul>
@@ -119,15 +119,16 @@
             <br/>
             <br/>
 
-            <a href="https://docs.google.com/forms/d/1bXiGHb_QuI34B4fIpvA5ghSEkabnevMsOEEppzOv6yU/viewform?usp=send_form"><button>Register Now</button></a>
+            <a href="https://docs.google.com/forms/d/1bXiGHb_QuI34B4fIpvA5ghSEkabnevMsOEEppzOv6yU/viewform?usp=send_form"><button class="custom">Register Now</button></a>
 
+            <br/>
             <br/>
 
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
               <input type="hidden" name="cmd" value="_s-xclick"/>
               <input type="hidden" name="hosted_button_id" value="BMVEXLPGKU2KL"/>
-              <input type="hidden" name="on0" value="Team Registration"/>Team Registration
-              <br/>
+              <input type="hidden" name="on0" value="Team Registration"/>
+              Team Registration
               <br/>
               <select name="os0">
                 <option value="1 team">1 team $120.00 CAD</option>
@@ -144,7 +145,7 @@
           <span class="box-title">Daily Puzzle</span>
           <br/>
           <br/>
-          <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+          <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe>
         </div>
       </div>
     </div>

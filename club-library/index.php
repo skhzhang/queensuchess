@@ -34,7 +34,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="../icons/orange-circle.png" type="icon/png" rel="icon" />
+  <link href="../logo.png" type="icon/png" rel="icon" />
 
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

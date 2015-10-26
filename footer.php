@@ -15,7 +15,6 @@ function foot($directoryLevel) {
 			<div class="four columns footer-box">
 				<span class="title"><a href="{$directoryString}">Queen's Chess Club</a></span>
 				<ul>
-					<li class="links"><a href="{$directoryString}">Home</a></li>
 					<li class="links"><a href="{$directoryString}about">About</a></li>
 					<li class="links"><a href="{$directoryString}photos">Photos</a></li>
 					<li class="links"><a href="{$directoryString}partners">Partners</a></li>
@@ -38,7 +37,7 @@ function foot($directoryLevel) {
 				<br/>
 				<br/>
 				<p class="footer-text">We meet Tuesday nights at 8:30pm in the <strong>JDUC 352</strong>.</p>
-				<iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJdWmhDQSr0kwRJJOAMEjie3I&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>
+				<!--<iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJdWmhDQSr0kwRJJOAMEjie3I&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>-->
 			</div>
 		</div>
 	</div>
@@ -48,7 +47,7 @@ function foot($directoryLevel) {
 				&nbsp;
 			</div>
 			<div class="eight columns">
-				Copyright &copy; 2015 Queen's Chess Club. Website designed and developed by <a href="http://simonkhzhang.me">Simon Zhang</a>
+				Copyright &copy; 2015 Queen's Chess Club. <a href="{$directoryString}legal">Legal</a>. Website designed and developed by <a href="http://simonkhzhang.me">Simon Zhang</a>
 			</div>
 			<div class="two columns">
 				&nbsp;

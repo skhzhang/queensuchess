@@ -10,6 +10,7 @@ window.onload = function() {
     }
 }
 */
+
 $(window).resize(function() {
 
 	if ($(window).width() > 550) {
@@ -33,19 +34,45 @@ $(document).ready(function() { // execute when web page is fully loaded
 
 	});
 
+	// FLEXSLIDER (MAIN PAGE)
 	// adjust settings of flexslider
-	$('.flexslider').flexslider({
+	$('.main-page-flexslider').flexslider({
 		animation: "slide",
 		prevText: "",
 		nextText: ""
 
 	});
-
 	// modify margins of flexslider
-	$('.flexslider').css('margin','10px');
-	$('.flexslider').css('margin-left','10px');
-	$('.flexslider').css('margin-right','10px');
+	$('.main-page-flexslider').css('margin','10px');
+	$('.main-page-flexslider').css('margin-left','10px');
+	$('.main-page-flexslider').css('margin-right','10px');
 
+	// FLEXSLIDER CAROUSEL and SLIDER (PHOTOS PAGE)
+	// The slider being synced must be initialized first
+	$('#carousel').flexslider({
+		animation: "slide",
+		controlNav: false,
+		animationLoop: false,
+		slideshow: false,
+		itemWidth: 210,
+		itemMargin: 5,
+		asNavFor: '#slider',
+		prevText: "",
+		nextText: ""
+	});
+
+	$('#slider').flexslider({
+		animation: "slide",
+		controlNav: false,
+		animationLoop: false,
+		slideshow: false,
+		sync: "#carousel",
+		prevText: "",
+		nextText: ""
+	});
+
+
+	// TO TOP BUTTON
 	if ($(document).height() / $(window).height() >= 1.25) {
 		$('.toTop').show();
 	}

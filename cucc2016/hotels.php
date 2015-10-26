@@ -34,8 +34,8 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="../chess_PNG8447.png" type="icon/png" rel="icon" />
-
+  <link href="../logo.png" type="icon/png" rel="icon" />
+  
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <?php //include_once("analyticstracking.php") ?>

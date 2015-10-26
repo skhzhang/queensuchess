@@ -34,7 +34,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="../icons/orange-circle.png" type="icon/png" rel="icon" />
+  <link href="../logo.png" type="icon/png" rel="icon" />
 
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -58,16 +58,34 @@
     
     <div class="row">
       <div class="box">
-        <spa class="box-title"n>Photos</span>
+        <span class="box-title"n>Photos</span>
         <br/>
         <br/>
-      </div>
-      <div class="box">
-        <span class="box-title">Daily Puzzle</span>
-        <br/>
-        <br/>
-        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/
-gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+
+        <div id="slider" class="flexslider">
+          <ul class="slides">
+            <li><img src="../images/IMG_20150929_213345.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213353.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213403.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213431.jpg" /></li>
+            <li><img src="../images/IMG_20150929_214027.jpg" /></li>
+            <li><img src="../images/IMG_20150929_214101.jpg" /></li>
+            <li><img src="../images/IMG_20150929_222811.jpg" /></li>
+            <!-- items mirrored twice, total of 12 -->
+          </ul>
+        </div>
+        <div id="carousel" class="flexslider">
+          <ul class="slides">
+            <li><img src="../images/IMG_20150929_213345.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213353.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213403.jpg" /></li>
+            <li><img src="../images/IMG_20150929_213431.jpg" /></li>
+            <li><img src="../images/IMG_20150929_214027.jpg" /></li>
+            <li><img src="../images/IMG_20150929_214101.jpg" /></li>
+            <li><img src="../images/IMG_20150929_222811.jpg" /></li>
+            <!-- items mirrored twice, total of 12 -->
+          </ul>
+        </div>
       </div>
     </div>
 

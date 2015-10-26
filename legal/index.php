@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Contact - Queen's Chess Club</title>
+  <title>Legal - Queen's Chess Club</title>
   <meta name="author" content="Queen's Chess Club">
   <meta name="Description" content="Home of the Queen's University Chess Club">
 
@@ -58,25 +58,13 @@
     
     <div class="row">
       <div class="box">
-        <span class="box-title">Contact</span>
-        <br/>
-        <p>The first step is to contact us and come to the weekly meetings!</p>
-
-        <p>
-          <strong>Meetings</strong> - JDUC 352 @ 8:30pm on Tuesdays
-          <br/>
-          <strong>Contact</strong> - <a href="mailto:queenschess@outlook.com">queenschess@outlook.com</a>
-          <br/>
-          <strong>Club President</strong> - Simon Gladstone (<a href="mailto:simon.gladstone@queensu.ca">simon.gladstone@queensu.ca</a>)
-        </p>
-
-        <p>We hope to be hearing from you!</p>
-      </div>
-      <div class="box">
-        <span class="box-title">Daily Puzzle</span>
+        <span class="box-title">Legal</span>
         <br/>
         <br/>
-        <iframe width="220" scrolling="no" height="261" frameborder="0" src="http://www.shredderchess.com/online/playshredder/gdailytactics.php?mylang=en&amp;mysize=22"></iframe> 
+        <ul>
+          <li><a href="../icons/email5.png">Email icon</a> made by <a href="http://yanlu.de" title="Yannick">Yannick</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></li>
+          <li><a href="../background/white_wall_hash.png">Background</a> made by <a href="http://centrumpar.pl/" title="Viahorizon">Viahorizon</a> from <a href="http://subtlepatterns.com/white-wall-3/" title="SubtlePatterns">subtlepatterns.com</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons BY-SA 3.0">CC BY-SA 3.0</a></li>
+        </ul>
       </div>
     </div>
 
