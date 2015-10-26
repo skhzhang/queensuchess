@@ -102,13 +102,6 @@ EOT;
 					"Contact"
 				];
 
-	/*
-	$currentPage = substr($_SERVER["REQUEST_URI"], 0, -1); 		// remove last character from request url
-	$currentPage = strrchr($currentPage, "/"); 					// get all text after last '/'
-	$currentPage = str_replace("/", "", $currentPage); 			// remove all '/'
-	*/
-	echo $_SERVER["REQUEST_URI"];
-
 	for ($i = 0; $i < sizeof($pages[0]); $i++) {
 
 		$currentPage = false;

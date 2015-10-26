@@ -130,36 +130,49 @@ button.link {
 	text-transform: none;
 	border: 0 solid #bbb;
 	border-radius: 0; }
+button.link::after {
+	content: "";
+	display: none;
+	position: relative;
+	bottom: 3px;
+	width: 85%;
+	height: 2px; }
 button.link:hover,
 button.link:focus {
 	color: white;
 	background-color: #B31D40;
-	border: 0px solid #bbb;
+	border: 0;
 	border-radius: 4px; }
 button.link:hover::after {
-	content: "";
 	display: block;
-	background-color: #CF93A1;
-	position: relative;
-	bottom: 3px;
-	left: 7%;
-	width: 85%;
-	height: 2px; } 
+	background-color: #CF93A1; } 
 button.special-link {
 	color: #FFA126; }
 button.special-link:hover,
 button.special-link:focus {
 	color: #FFCF33; } 
 button.special-link:hover::after {
-	content: "";
+	background-color: #DB8B23; 
+}
+
+/* current page */
+button.current-page,
+button.current-page:hover,
+button.current-page:focus  {
+	color: white;
+	border: 0;
+	background-color: #80001F;
+	border-radius: 0; }
+button.current-page.special-link {
+	color: #FFCF33;}
+button.current-page::after {
+	display: block;
+	background-color: #CF93A1; }
+button.current-page.special-link::after {
 	display: block;
 	background-color: #DB8B23; 
-	position: relative;
-	bottom: 3px;
-	left: 7%;
-	width: 85%;
-	height: 2px;
 }
+
 
 /* (DROPDOWN) MENU */
 .links ul li ul.dropdown {
@@ -204,6 +217,7 @@ button.special-link:hover::after {
 
 .box { /* elements used to house content */
 	flex-grow: 1;
+	min-width: 240px; /* workaround since flex-grow: 1; is not honoured in Safari 8 */
 	width: calc(100% - 20px);
 	margin: 10px 0 10px 0;
 	padding: 10px;
@@ -347,16 +361,18 @@ footer .title,
 		color: #F5E9EC;
 	}
 
+
+
 	.header-right .title-div {
 		max-width: 450px;
-		margin: 20px 0px 0px 0px;
-		padding: 0px 0px 15px 0px;
+		margin: 20px 0 0 4%;
+		padding: 0 0 15px 0;
 		border-bottom: 2px dotted #BD6F78;
+		text-align: center;
 	}
 
 	.header-right .title {
 		margin: 15px 0px 15px 0px;
-		text-align: center;
 	}
 
 	/* HEADER BUTTON LINKS */
@@ -372,6 +388,16 @@ footer .title,
 	button.link {
 		min-width: 75px;
 		text-align: center;
+	}
+	button.link::after {
+		left: 7%;
+	}
+
+	/* current page */
+	button.current-page,
+	button.current-page:hover,
+	button.current-page:focus  {
+		background-color: #A3052A;
 	}
 
 	.links ul li { /* required for dropdown menu */
@@ -405,6 +431,12 @@ footer .title,
 		display: none;
 	}
 
+	.dropdown button.current-page::after {
+		display: none;
+	}
+
+
+
 	.container-right {
 		width: auto;
 	}
@@ -428,6 +460,10 @@ footer .title,
 	.main .row > :first-child { margin-left: 0; }
 	.main .row > :last-child { margin-right: 0; }
 
+	.main .container .container-right .box {
+		margin-top: 10px;
+	}
+
 	.box {
 		width: auto;
 		margin-left: 10px;
@@ -435,9 +471,8 @@ footer .title,
 		margin-bottom: 10px;
 	}
 
-
-	.main .container .container-right .box {
-		margin-top: 10px;
+	button.custom {
+		text-transform: none;
 	}
 
 	/* SHOWCASE */

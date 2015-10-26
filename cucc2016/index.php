@@ -70,7 +70,7 @@
 
         <strong>Location:</strong> MacGivallary-Brown Hall 218 Barrie Street, Kingston, Ontario
 
-        <!--<iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20MacGivallary-Brown%20Hall&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>-->
+        <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20MacGivallary-Brown%20Hall&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>
 
         <br/><br/><strong>Tournament Format:</strong>
         <ul>

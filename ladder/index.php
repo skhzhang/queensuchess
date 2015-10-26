@@ -34,7 +34,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="../icons/orange-circle.png" type="icon/png" rel="icon" />
+  <link href="../logo.png" type="icon/png" rel="icon" />
 
   <!-- Google Analytics tracking
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -64,88 +64,17 @@
 
         <p>The players are ranked in the table, from top (ranked highest) to bottom (ranked lowest). Contact us today to get into the ladder action!</p>
 
-        <table>
-          <tr>
-            <th>Rank</th>
-            <th>Player</th>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Tony Bao</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>Simon Gladstone</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Guang Yu Song</td>
-          </tr>
-          <tr>
-            <td>4</td>
-            <td>Josh Myers</td>
-          </tr>
-          <tr>
-            <td>5</td>
-            <td>Sudhir Pokhrel</td>
-          </tr>
-          <tr>
-            <td>6</td>
-            <td>James Zhang</td>
-          </tr>
-          <tr>
-            <td>7</td>
-            <td>Chris Pallant</td>
-          </tr>
-          <tr>
-            <td>8</td>
-            <td>Connor Morrow</td>
-          </tr>
-          <tr>
-            <td>9</td>
-            <td>Ben Lande</td>
-          </tr>
-          <tr>
-            <td>10</td>
-            <td>Justin Pool</td>
-          </tr>
-          <tr>
-            <td>11</td>
-            <td>Hong Yi Xiong</td>
-          </tr>
-          <tr>
-            <td>12</td>
-            <td>David Tango</td>
-          </tr>
-          <tr>
-            <td>13</td>
-            <td>Mike Vaselenak</td>
-          </tr>
-          <tr>
-            <td>14</td>
-            <td>Dylan McTeirnan</td>
-          </tr>
-          <tr>
-            <td>15</td>
-            <td>Aidrain Ranjith</td>
-          </tr>
-          <tr>
-            <td>16</td>
-            <td>Alfred Chen</td>
-          </tr>
-          <tr>
-            <td>17</td>
-            <td>Joaquin Sanchez de Lozada</td>
-          </tr>
-          <tr>
-            <td>18</td>
-            <td>Charles Cai</td>
-          </tr>
-          <tr>
-            <td>19</td>
-            <td>Umer Naveed</td>
-          </tr>
-        </table>
+        <?php
+
+          include "Ladder.php";    // Ladder class
+          $ladder = new Ladder("ladderrankings.txt"); // pull ladder data from ladderrankings.txt
+
+          // uncomment line below to set the update time manually
+          // $ladder->setUpdateTime("Halloween 2015");
+
+          echo $ladder;
+
+        ?>
 
         <p>*<strong>Rules:</strong> You can play a player 2 places above and below your current ranking. Each ladder game at club meetings will be 5-10 minutes in length. When you beat a player ranked higher than you, you switch positions with them and if you lose or tie against someone ranked higher than you, the rankings stay the same.</p>
       </div>
