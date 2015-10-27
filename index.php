@@ -97,13 +97,11 @@
 	</div>
 </div>
 
-
 <!-- FOOTER -->
 <?php
   include ("footer.php"); 
   echo foot(0);
 ?>
-
 
 <!-- TO TOP -->
 <a href="#"><div class='toTop'></div></a>

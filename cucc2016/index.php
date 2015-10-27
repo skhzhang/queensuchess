@@ -152,12 +152,14 @@
   </div>
 </div>
 
-
 <!-- FOOTER -->
 <?php
   include ("../footer.php"); 
   echo foot(1);
 ?>
+
+<!-- TO TOP -->
+<a href="#"><div class='toTop'></div></a>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

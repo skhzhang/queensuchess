@@ -73,7 +73,7 @@ $(document).ready(function() { // execute when web page is fully loaded
 
 
 	// TO TOP BUTTON
-	if ($(document).height() / $(window).height() >= 1.25) {
+	if ($(document).height() / $(window).height() >= 1.4) {
 		$('.toTop').show();
 	}
 
