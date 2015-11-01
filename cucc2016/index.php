@@ -68,9 +68,9 @@
           <li>$150 for the first team and $120 for additional teams after January 3rd, 2016</li>
         </ul>
 
-        <strong>Location:</strong> MacGivallary-Brown Hall 218 Barrie Street, Kingston, Ontario
+        <strong>Location:</strong> Wallace Hall, John Deutsch University Centre (JDUC), 87 Union Street, Kingston, Ontario
 
-        <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20MacGivallary-Brown%20Hall&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>
+        <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=%20John+Deutsch+University+Centre,+Kingston,+ON+K7L+2N9&key=AIzaSyAI1lxnNCbqGmxqLcma8uhfqXGfB2R8Dgk" allowfullscreen></iframe>
 
         <br/><br/><strong>Tournament Format:</strong>
         <ul>
