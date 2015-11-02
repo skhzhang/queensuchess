@@ -15,6 +15,7 @@ David Tango
 Mike Vaselenak
 Dylan McTeirnan
 Aidrian Ranjith
+Michael Assuras
 Joaquin Sanchez de Lozada
 Alfred Chen
 Charles Cai
