@@ -13,6 +13,7 @@ window.onload = function() {
 
 $(window).resize(function() {
 
+	// close overflow-menu if open
 	if ($(window).width() > 550) {
 		if ($(".overflow-menu").css("display") == "block") {
 			$(".overflow-menu").hide("slide", { direction: "up" }, 0);
@@ -84,9 +85,7 @@ function showOverflowMenu(showOrHide){
 
 	// Show navbar:
 	// slide the navbar in from the top if viewing on mobile
-	// from the left side otherwise
 	if (showOrHide) {
-
 		if ($(window).width() <= 550) { // if mobile size
 			$(".overflow-menu").show("slide", { direction: "up" }, 200);
 		}
@@ -94,9 +93,7 @@ function showOverflowMenu(showOrHide){
 
 	// Hide navbar:
 	// slide the navbar out through the top if viewing on mobile
-	// to the left otherwise
 	else { //if (!showOrHide) {
-
 		if ($(window).width() <= 550) {
 			$(".overflow-menu").hide("slide", { direction: "up" }, 200);
 		}
