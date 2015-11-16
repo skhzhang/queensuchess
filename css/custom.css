@@ -246,6 +246,11 @@ button.current-page.special-link::after {
 	background-color: white;
 }
 
+/* tables */
+.table {
+	overflow-x: auto;
+}
+
 footer .title,
 .footer-top .title a {
 	font-size: 26px;

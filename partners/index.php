@@ -60,6 +60,31 @@
       <div class="box">
         <span class="box-title">Partnerships</span>
         <br/>
+	 <p> If you are interested in becoming a sponsor, below are the possible levels of sponsorship.  Please contact us at <a href=“mailto:queenschess@outlook.com”>queenschess@outlook.com</a> if you would like to sponsor our events. </p>
+
+<table>
+<tr>
+<td>
+	<b>$500 – King</b><br>
+Banner with company logo, competition pamphlet and score sheets, website and social media, and opening ceremony announcements.
+</td>
+</tr> 
+	
+<tr>
+<td>
+	<b>$250 – Rook</b><br>
+Competition pamphlet and score sheets, website and social media, and opening ceremony announcements.
+</td>
+</tr>
+
+<tr>
+<td>
+	<b>$100 – Knight</b><br>
+		Competition pamphlet, website and social media
+</td>
+</tr>
+</table>
+
         <p>As a representative organization of Queen's University, the Queen's Chess Club prides itself on acknowledging groups that contribute to annual club activities. Here are some of companies and organizatons that have helped the Queen's Chess Club in the past. </p>
         <table>
           <tr>

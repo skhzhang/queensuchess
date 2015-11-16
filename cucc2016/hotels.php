@@ -64,66 +64,68 @@
           There are two hotels available to book for the CUCC. Both hotels are compared in the table below along with how to make reservations. Reservations need to be made by December 8, 2015 to ensure that your team will have a room
         </p>
 
-        <table>
-          <tr>
-            <th></th>
-            <th>Confederation Place Hotel</th>
-            <th>Holiday Inn</th>
-          </tr>
-          <tr>
-            <th>Location</th>
-            <td>
-              <a href="https://www.google.ca/maps/place/237+Ontario+St,+Kingston,+ON+K7L+2Z4/">237 Ontario Street, Kingston, ON</a>
-            </td>
-            <td>
-              <a href="https://www.google.ca/maps/place/2+Princess+St,+Kingston,+ON+K7L+1A2/">2 Princess Street, Kingston, ON</a>
-            </td>
-          </tr>
-          <tr>
-            <th>Distance</th>
-            <td>Around 15 minute walk</td>
-            <td>Around 15 minute walk</td>
-          </tr>
-          <tr>
-            <th>Cost</th>
-            <td>$109 for 4 people</td>
-            <td>$124.99 for 4 people</td>
-          </tr>
-          <tr>
-            <th>Breakfast</th>
-            <td>Continental Breakfast included</td>
-            <td>Not included</td>
-          </tr>
-          <tr>
-            <th>Pool</th>
-            <td>No</td>
-            <td>Yes</td>
-          </tr>
-          <tr>
-            <th>Gym</th>
-            <td>No</td>
-            <td>Yes</td>
-          </tr>
-          <tr>
-            <th>Reservation Information</th>
-            <td>
-              You may contact the reservations department using the following methods and mention the Queen’s University Chess Tournament room block.
-              <br/>
-              <strong>Call direct toll free :</strong> 888-825-4656 ext. 222
-              <br/>
-              <strong>By email:</strong> <a href="mailto:guestservices@confedplace.com">guestservices@confedplace.com</a>
-            </td>
-            <td>
-              You may contact the reservations department using the following methods and mention the Queen’s University Chess Tournament room block.
-              <br/>
-              <strong>Call direct:</strong> 613-549-8400 ext 2660
-              <br/>
-              <strong>By email:</strong> <a href="mailto:reservations@hikingstonwaterfront.com">reservations@hikingstonwaterfront.com</a>
-              <br/>
-              <strong>By fax:</strong> 613-549-3508
-            </td>
-          </tr>
-        </table>
+        <div class="table">
+          <table>
+            <tr>
+              <th></th>
+              <th>Confederation Place Hotel</th>
+              <th>Holiday Inn</th>
+            </tr>
+            <tr>
+              <th>Location</th>
+              <td>
+                <a href="https://www.google.ca/maps/place/237+Ontario+St,+Kingston,+ON+K7L+2Z4/">237 Ontario Street, Kingston, ON</a>
+              </td>
+              <td>
+                <a href="https://www.google.ca/maps/place/2+Princess+St,+Kingston,+ON+K7L+1A2/">2 Princess Street, Kingston, ON</a>
+              </td>
+            </tr>
+            <tr>
+              <th>Distance</th>
+              <td>Around 15 minute walk</td>
+              <td>Around 15 minute walk</td>
+            </tr>
+            <tr>
+              <th>Cost</th>
+              <td>$109 for 4 people</td>
+              <td>$124.99 for 4 people</td>
+            </tr>
+            <tr>
+              <th>Breakfast</th>
+              <td>Continental Breakfast included</td>
+              <td>Not included</td>
+            </tr>
+            <tr>
+              <th>Pool</th>
+              <td>No</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <th>Gym</th>
+              <td>No</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <th>Reservation Information</th>
+              <td>
+                You may contact the reservations department using the following methods and mention the Queen’s University Chess Tournament room block.
+                <br/>
+                <strong>Call direct toll free :</strong> 888-825-4656 ext. 222
+                <br/>
+                <strong>By email:</strong> <a href="mailto:guestservices@confedplace.com">guestservices@confedplace.com</a>
+              </td>
+              <td>
+                You may contact the reservations department using the following methods and mention the Queen’s University Chess Tournament room block.
+                <br/>
+                <strong>Call direct:</strong> 613-549-8400 ext 2660
+                <br/>
+                <strong>By email:</strong> <a href="mailto:reservations@hikingstonwaterfront.com">reservations@<br/>hikingstonwaterfront.com</a>
+                <br/>
+                <strong>By fax:</strong> 613-549-3508
+              </td>
+            </tr>
+          </table>
+        </div>
 
         <p>
         If you have any questions regarding hotel arrangements, please contact us at <a href="mailto:queenschess@outlook.com">queenschess@outlook.com</a> or <a href="mailto:simon.gladstone@queensu.ca">simon.gladstone@queensu.ca</a>

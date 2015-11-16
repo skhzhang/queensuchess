@@ -77,7 +77,8 @@
           <li>5 rounds Team Swiss (Teams of 4 players)</li>
           <li>Teams are allowed but not required to have a fifth player on their team</li>
           <li>Teams can sub in the fifth player as they please</li>
-	   <li>All games will be CFC rated. For team formation, it must respect the order of strength. In other words, board 1 > board 2 > board 3 > board 4 in rating comparison. However, players can switch boards if their rating difference is less than 50 rating points.</li>
+	   <li>The board order must be locked before round 1.</li>
+	   <li>For team formation, it should respect the order of strength.</li>
         </ul>
 
         <strong>Eligibility:</strong>
