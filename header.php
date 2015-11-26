@@ -39,7 +39,7 @@ EOT;
 				<!-- HEADER-LEFT -->
 				<div class="three columns header-left" >
 					<a href="{$directoryString}">
-						<img class="logo" src="{$directoryString}logo.png"/>
+						<img class="logo" src="{$directoryString}/icons/logo2.png"/>
 					</a>
 
 					<button class="overflow">
