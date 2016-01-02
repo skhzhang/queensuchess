@@ -9,7 +9,7 @@ Website viewable at www.queensuchess.com.
 
 ## Features
 
-* CSS flexbox layouts for the positioning and layout of most elements of the website (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Skeleton boilerplate (http://getskeleton.com) and CSS flexbox layouts for the positioning and layout of most elements of the website (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Developed mobile-first for easy mobile navigability
 * Flexslider (http://www.woothemes.com/flexslider/) used with modifications on the Home page for the "showcase" as well as in the Photos page to display pictures
 * By request, Ladder page grabs rankings from a text file for easy ranking updates
