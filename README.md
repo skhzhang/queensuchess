@@ -15,3 +15,4 @@ Website viewable at www.queensuchess.com.
 * By request, Ladder page grabs rankings from a text file for easy ranking updates
 * Google Maps Embed API (https://developers.google.com/maps/documentation/embed/) for any viewable maps on the website
 * Shredder Computer Chess Daily Puzzle (http://www.shredderchess.com/chess-news/shredder-news/chess-puzzle-webmaster.html)
+* Icons used are from http://www.flaticon.com/ and from the appropriate social media sites
